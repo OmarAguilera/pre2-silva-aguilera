@@ -1,0 +1,49 @@
+.logo {
+    display: flex;
+    justify-content: center;
+    text-decoration: none;
+    color: black;
+}
+
+.item {
+    display: grid;
+    
+}
+
+.item img, h4, h5, .info {
+    justify-self: center;
+}
+
+.item2 {
+    display: grid;
+}
+
+.item2, h1, p, img, h3 {
+    justify-self: center;
+}
+
+.counter {
+    display: flex;
+    justify-content: center;
+}
+
+.cc{
+    display: grid;
+}
+.buy {
+    text-align: center;
+    width: 100px;
+    justify-self: center;
+}
+
+.cart {
+    display: flex;
+}
+
+.cart img {
+    width: 50px;
+}
+.cart h3 {
+    color: blue
+    ;
+}
